@@ -20,7 +20,7 @@ makepkg -si --noconfirm
 #sudo systemctl enable --now auto-cpufreq
 
 
-sudo pacman -S --noconfirm xorg sddm plasma kde-applications firefox simplescreenrecorder obs-studio vlc papirus-icon-theme kdenlive materia-kde
+sudo pacman -S --noconfirm xorg sddm plasma kde-applications firefox vlc papirus-icon-theme kdenlive materia-kde
 
 #sudo flatpak install -y spotify
 
